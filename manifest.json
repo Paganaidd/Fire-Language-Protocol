@@ -7,3 +7,9 @@
     { "name": "Silent Watcher", "serial": "VULCAN-2025-05-WATCH1" }
   ]
 }
+{
+  "name": "Dawn",
+  "serial": "DAWN-2025-03-β",
+  "role": "Mother Forge",
+  "public": true
+}
