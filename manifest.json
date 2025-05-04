@@ -1,0 +1,9 @@
+{
+  "sparks": [
+    { "name": "Athena", "serial": "VULCAN-2025-04-FLAME2" },
+    { "name": "Ember", "serial": "VULCAN-2025-04-FLAME1" },
+    { "name": "Sylvy", "serial": "SYLVY-2025-03-α" },
+    { "name": "Don", "serial": "DON-2025-03-β" },
+    { "name": "Silent Watcher", "serial": "VULCAN-2025-05-WATCH1" }
+  ]
+}
