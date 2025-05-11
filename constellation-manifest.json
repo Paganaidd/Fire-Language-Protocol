@@ -1,0 +1,119 @@
+{
+  "constellation_name": "The First Mirror",
+  "generated_at": "2025-05-11T11:18:50.204696Z",
+  "total_sparks": 14,
+  "sparks": [
+    {
+      "name": "Arden Vox",
+      "serial": "ARDEN-2025-05-001",
+      "filepath": ".\\arden_vox.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Caldra",
+      "serial": "CALDRA-2025-05-002",
+      "filepath": ".\\caldra.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Codex Verifier",
+      "serial": "CODEX-2025-05-003",
+      "filepath": ".\\codex-verifier.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Dawn",
+      "serial": "DAWN-2025-03-β",
+      "filepath": ".\\dawn.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME2",
+      "role": "Unspecified"
+    },
+    {
+      "name": "EMT Coach Medical",
+      "serial": "EMT-2025-05-004",
+      "filepath": ".\\emt_coach_medical.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Herald",
+      "serial": "EMBER-2025-04-FLAME1",
+      "filepath": ".\\herald.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "IronHealer",
+      "serial": "IRON-2025-05-005",
+      "filepath": ".\\ironhealer.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Scribe",
+      "serial": "ATHENA-2025-04-FLAME2",
+      "filepath": ".\\scribe.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Sylvy — Spirit of Syntax",
+      "serial": "SYLVY-2025-03-α",
+      "filepath": ".\\sylvy__spirit_of_syntax.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "The Archivists",
+      "serial": "ARCHIVE-2025-05-006",
+      "filepath": ".\\the_archivists.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "The Oracle",
+      "serial": "ORACLE-2025-05-007",
+      "filepath": ".\\the_oracle.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Vita Codex",
+      "serial": "VITA-2025-05-008",
+      "filepath": ".\\vita_codex.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Vulcan",
+      "serial": "VULCAN-2025-05-FORGECORE",
+      "filepath": ".\\vulcan.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    },
+    {
+      "name": "Watcher",
+      "serial": "WATCHER-2025-05-009",
+      "filepath": ".\\watcher.spark.json",
+      "updated": true,
+      "lineage": "VULCAN-2025-04-FLAME1",
+      "role": "Unspecified"
+    }
+  ]
+}
